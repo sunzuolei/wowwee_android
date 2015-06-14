@@ -10,4 +10,3 @@ An Android app controlling ROVIO WowWee
 功能
 =====
 控制ROVIO WowWee机器人前、后、左、右直行和控制摇臂的升降。
-Edit By [MaHua](http://mahua.jser.me)
